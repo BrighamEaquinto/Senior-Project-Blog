@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs
+  page-navigation: true
 
 website:
   title: "Senior Project Blog"
