@@ -1,0 +1,22 @@
+---
+title: "Thoughts on Using Quarto"
+author: "Brigham Eaquinto"
+date: "2022-20-22"
+categories: [Quarto, reflection]
+---
+
+This process of using Quarto to build cirriculim has been a blast for me honestly! I love that it makes me feel so capable. It has helped me realize that I want to do this in some level as a part of my career. I'm seeing the possibilities to make tutorials on how to make ML models, wrangle data, and use software. There's even a [Bookdown](https://quarto.org/docs/reference/projects/books.html) option just referred to as "Books" (looking at you Tennyson) and an option to make [slides](https://quarto.org/docs/presentations/revealjs/). Both of these can be done quite easily with existing software but these are now under the unbrella of Quarto. 
+
+I use [Quarto's repo](https://github.com/quarto-dev/quarto-web/) to get ideas for my website and how to code it up. Recently I was attempting to make buttons and found an example on the repo. I was able to make two simple buttons that did function as intended to other pages in the website, but they looked totally different than what I was expecting. Later I 
+
+
+CSS and buttons
+
+To Do: 
+- Religion group
+- Bethany 
+- rel assignment 
+
+- werk meeting
+- Appt at 6 
+- math problem 

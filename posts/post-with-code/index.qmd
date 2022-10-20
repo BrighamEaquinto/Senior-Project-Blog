@@ -1,0 +1,32 @@
+---
+title: "Oct 19 Week 4 Reflection"
+author: "Brigham Eaquinto"
+date: "2022-10-20"
+categories: [reflection]
+image: "image.jpg"
+---
+
+### Yesterday's Class 
+
+Yesterday was week four of Bootcamp. This week we had four regulars and two newcomers. The whole lesson was on [grouping and summarising](https://brighameaquinto.github.io/posts/weeks/Oct_19th.html). 
+
+
+I told them that next week we'll learn how to make plots. There was a positive reactio. 
+
+I really like how it worked last semester. Before we got into the code, we went over histograms, boxplots, scatterplots, and barplots on the white board. The goal was to think of datatypes of each column before we put things into plots. 
+
+### Reflections for Improvement
+
+1. Ideas for onboarding new people (Beginner's Starting Guide?): 
+    - create a QR code to a place on the website for beginner
+        - beginning survey
+        - joining Slack and bootcamp channel
+        - link to installation page (page already made)
+        - what about an explanation for total beginners about what R is used for? 
+        - description of the RStudio interface
+            - link that [cheetsheet](https://github.com/rstudio/cheatsheets/blob/main/pngs/rstudio-ide.png)
+2. Make many exercises like this week's practice had. Honestly even more than the six that we had would be beneficial. 
+3. The starter code was very useful also. 
+4. The dropdown box for the correct code seemed less than effective. A few of the student's didn't realize it was an option. 
+5. There should also be a note to instructors page that helps instructors know how to use the website and suggestions on how to run the class.
+6. I was the most prepared for this lesson out of all of them so far and it was also the smoothest lesson. One thing that helped it go more smoothly was that those that came were more familiar with the process and there were less people to corral. 
