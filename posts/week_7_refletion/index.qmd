@@ -2,26 +2,28 @@
 title: "Post Week 7 Reflection"
 author: "Brigham Eaquinto"
 date: "2022-10-27"
-categories: [ggplot, reflection]
+categories: [ggplot, reflection, positive]
 html:
     geometry: 
         - top=30mm
         - left=20mm
 ---
 
+
 ## Lesson 6; Week 7 Reflection
 
 This lesson on ggplot was very similar to how I structured the previous lesson. I upped the number of exercises from six last week to 8 for this week. It worked well since I went over four plots: histograms, bar plots, boxplots, and scatter plots. There are two exercises for each, one easy one and one without any starter code. 
 
-Basically I talked for about five minutes explaning the four charts and then I turned them loose to do the eight exercises. I think two of the six in attendance got all 8 finished. 
+Basically I talked for about five minutes explaning the four charts and then I turned them loose to do the eight exercises. I think two of the six in attendance got all eight finished. 
 
 Compared to last semester I'd say I taught the differences between each of the plots better. For that lesson it was just Danen and I drew the four on a white board. This semester I'd say I taught them better how to write the code for each plot. Now I should take the best of both and merge them together!
+
 
 ### Student Comments 
 
 **First Comment** 
 
-I asked one of the normal attendees (I should totally know his name...) about his experience so far. He said that his biggest struggle so far is understanding all of the lingo. He specifically mentioned ggplot and knowing what it was used for. I imagine he has trouble remembering the wrangling verbs too. He noted that he understands that he's only had about 5 hours accumulativly of data science practice for only one hour a week and that he's in CIT 110. Total noob. We all started there though. 
+I asked one of the normal attendees (I should totally know his name...) about his experience so far. He said that his biggest struggle so far is understanding all of the lingo. He specifically mentioned ggplot and knowing what it was used for. I imagine he has trouble remembering the wrangling verbs too. He noted that he understands that he's only had about five hours accumulativly of data science practice for only one hour a week and that he's in CIT 110. Total noob. We all started there though. 
 
 **Second Comment**
 
@@ -34,8 +36,14 @@ One of the students calmed my fear when she commented about how she much prefers
 
 Bridger helped a new comer get R and RStudio get up and going. This was his very first experience with analytics--bone dry experience. Once he was set up on his computer, Bridger asked me where he should start. I still didn't have a good beginner friendly experience going on the website yet. I even found a good introductory video last week but I didn't put it in yet.
 
+
 ### Other
 
+**1**
 Something I'm considering doing is making a slideshow using "revealjs" and embedding it at the top of each lesson. Also, what about a video for each lesson too? It could be me going through the slides and the contents of the lesson, or it could be the same information but taught differently. 
 
+**2**
 Also, the thought crossed my mind that if I finish this website and get everything the way that I like, this might be worthy as an example in the [Quarto examples page](https://quarto.org/docs/gallery/#websites). Maybe I could for their repo and submit a pull request for it! 
+
+**3** 
+One thing that eveyone struggled with was using \`tidy select\` to use columns that have a space in them, like `math score`. I made a note of it in the website but it seems that it wasn't read. They thought that the back tics were single quotation marks. Giving a win to python, I think they handle columns with spaces better. I'm not entirely sure but I think that the default way of quotation marks around columns names that have a space in them works. 
